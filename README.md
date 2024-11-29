@@ -9,7 +9,7 @@ I am a data-driven software developer with data analysis, SQL, data visualizatio
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [suzan.tesfai@gmail.com](mailto:suzan.tesfai@gmail.com)
 * 🧠  I'm learning Data analysis
-* 🤝  I'm open to collaborating on Forecasting/ prediction project
+* 🤝  I'm open to collaborating on a Forecasting/ prediction projects
 
 ### Skills
 
