@@ -4,8 +4,7 @@ Hi 👋 My name is Suzan
 Data Analyst
 ------------
 
-I am a data-driven software developer with data analysis, SQL, data visualization, Python, Tableau, PoerBI, JavaScript, ReactJS, and WordPress expertise. With a strong command of these skills, I excel in extracting insights from complex datasets, building interactive web applications, and creating visually appealing websites.
-
+I am a passionate and driven individual with a background in Computer Science and a strong focus on technology and data analysis. My expertise spans tools like SQL, Python, and Tableau, which I use to uncover valuable insights and drive decision-making. With hands-on experience in database design, data visualization, and collaborative problem-solving, I thrive in dynamic environments where innovation and learning are key. I am dedicated to leveraging technology to deliver impactful solutions and meaningful outcomes.
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [suzan.tesfai@gmail.com](mailto:suzan.tesfai@gmail.com)
 * 🧠  I'm learning Data analysis
